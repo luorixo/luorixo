@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eugene!</h1>
+<h1 align="center">Hi, I'm Eugene!</h1>
 <h3 align="center">A software engineering student at The University of Auckland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luorixo&label=Profile%20views&color=0e75b6&style=flat" alt="luorixo" /> </p>
