@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Eugene!</h1>
 <h3 align="center">A software engineering student at The University of Auckland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luorixo&label=Profile%20views&color=0e75b6&style=flat" alt="luorixo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luorixo&label=Profile%20views&color=0e75b6&style=flathttps://c.tenor.com/RhTrJ2V-68MAAAAd/cute-pokemon.gif" alt="luorixo" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -9,7 +9,5 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luorixo&show_icons=true&locale=en&layout=compact" alt="luorixo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luorixo&show_icons=true&locale=en" alt="luorixo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luorixo&" alt="luorixo" /></p>
