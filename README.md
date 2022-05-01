@@ -1,5 +1,5 @@
 <h1 align="left">Hello! <img src="https://github.com/luorixo/portfolio/blob/main/client/src/assets/Images/GreenFeather.png?raw=true" alt="Feather Icon" width="30"/></h1> 
-<h2 align="left">I'm Eugene, a software engineering student at The University of Auckland.<br>Visit my website here: 🢧 <a href='https://echua.top/'>echua.top</a> 🢦</h2>
+<h2 align="left">I'm Eugene, a software engineering student at The University of Auckland.<br>Visit my website here: 🢧 <a href='https://echua.top/' target="_blank">echua.top</a> 🢦</h2>
 <br>
 
 <p align="left">
