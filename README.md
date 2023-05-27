@@ -1,7 +1,6 @@
 ## 🪶 Kia Ora , I'm Eugene!
 I'm a **software engineering student** at the University of Auckland :)
 
-- Connect with me: [LinkedIn](https://www.linkedin.com/in/eugene-j-chua/)
 - Visit my website: 🢧 [echua.top](https://www.echua.top/) 🢦
 
 <p align="left">
