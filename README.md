@@ -1,4 +1,4 @@
-## 🪶 Kia Ora , I'm Eugene
+## 🪶 Kia Ora, I'm Eugene
 I'm a **software engineering student** at the University of Auckland :)
 
 - Connect w/ me: [LinkedIn](https://www.linkedin.com/in/eugene-j-chua/)
