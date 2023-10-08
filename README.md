@@ -9,4 +9,4 @@ I'm a **software engineering student** at the University of Auckland :)
 
 
 \
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luorixo&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![luorixo’s GitHub Contributions](https://github.pumbas.net/api/contributions/luorixo?colour=2EC27E)
