@@ -10,3 +10,5 @@ I'm a **software engineering student** at the University of Auckland :)
 
 \
 ![luorixo’s GitHub Contributions](https://github.pumbas.net/api/contributions/luorixo?colour=2EC27E)
+
+Contribution chart by: [pumbas600](https://github.com/pumbas600)
