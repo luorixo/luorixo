@@ -1,5 +1,7 @@
 ## 🪶 Kia Ora, I'm Eugene
-I'm a **software engineering student** at the University of Auckland :)
+Currently, I'm a:
+1. **part time software engineer @ Orion Health**
+2. **software engineering student @ The University of Auckland**
 
 - Connect w/ me: [LinkedIn](https://www.linkedin.com/in/eugene-j-chua/)
 
